@@ -1,0 +1,7 @@
+
+:: StoryInit
+<<run console.log("Hello world!")>>
+
+<<set $data to {
+	versionNumber: "0.1.0"
+}>>

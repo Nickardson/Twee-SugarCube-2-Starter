@@ -1,0 +1,7 @@
+:: Green Hill Zone
+You enter the green, hilly zone.
+[[Leave|Green Hill Finish]]
+
+:: Green Hill Finish
+You're finished here.
+[[Return home|Start]]

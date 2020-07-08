@@ -1,0 +1,5 @@
+
+:: StoryAuthor
+
+[img[sidebarbanner]]
+<span class="version">v<<print $data.versionNumber>></span>

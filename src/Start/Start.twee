@@ -1,0 +1,6 @@
+:: Start [output]
+
+<h3>Hello world!</h3>
+
+Run a Typescript function: 1 + 2 = <<print lib.doMath(1, 2) >>
+[[Link to another page|Green Hill Zone]]
